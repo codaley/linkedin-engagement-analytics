@@ -15,9 +15,3 @@ A data-driven analysis of LinkedIn engagement using **NLP and text analytics** t
 - **Python** (pandas, BeautifulSoup, NLTK, Matplotlib)
 - **Text Analytics & NLP**
 - **Data Visualization** (word clouds, dashboards)
-
-## 📊 Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/linkedin-engagement-analysis.git
-   cd linkedin-engagement-analysis
